@@ -4,7 +4,7 @@ import java.io.File;
 import java.util.Scanner;
 
 public enum mailCode {
-    BIRTHDAY_MAIL("src/main/java/txt_files/happy_birthday.txt"), SALE_MAIL("src/main/java/txt_files/sale_mail.txt");
+    BIRTHDAY_MAIL("src/main/java/data/txt_files/happy_birthday.txt"), SALE_MAIL("src/main/java/data/txt_files/sale_mail.txt");
 
     private String filename;
 
